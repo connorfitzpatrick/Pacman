@@ -1,7 +1,7 @@
 # PacMan
 Java Game
 
-[![Link to game preview](https://i3.ytimg.com/vi/Ar4_TdX9RCc/maxresdefault.jpg)](https://youtu.be/DwXLMGc2pnA)
+[![Link to game preview](https://i3.ytimg.com/vi/DwXLMGc2pnA/maxresdefault.jpg)](https://youtu.be/DwXLMGc2pnA)
 <b>Click image above for gameplay clip</b>
 
 For my final project in my Game Design 2 class, I recreated PacMan using Java. 
